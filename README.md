@@ -20,9 +20,6 @@ I build ERP and backend systems, mostly with **Odoo and Python**. I also work in
 
 | Project | What it shows |
 |---|---|
-| [it_procurement_app](https://github.com/MohiuddinRU/it_procurement_app) | Odoo app demonstrating access rights, record rules and approval flows |
-| [my_custom_addons_17](https://github.com/MohiuddinRU/my_custom_addons_17) | Custom Odoo 17 addons |
-| [event_app](https://github.com/MohiuddinRU/event_app) + [frontend](https://github.com/MohiuddinRU/event_app_frontend) | Full-stack event app: Python backend + JavaScript frontend |
 | [odoo_installation_howto](https://github.com/MohiuddinRU/odoo_installation_howto) | Step-by-step guide to setting up Odoo for development |
 | [mohiuddinru.github.io](https://github.com/MohiuddinRU/mohiuddinru.github.io) | My portfolio site: plain HTML, CSS and JS |
 
