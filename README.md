@@ -12,9 +12,9 @@ I build ERP and backend systems, mostly with **Odoo and Python**. I also work in
 ## 🛠️ Tech
 
 **Languages:** Python · PHP · JavaScript / TypeScript · Node.js · C/C++<br>
-**ERP & data:** Odoo 13–17 (ORM, OWL, QWeb, access rights & record rules) · PostgreSQL · MySQL · REST APIs<br>
+**ERP & data:** Odoo 12–20 (ORM, OWL, QWeb, access rights & record rules) · PostgreSQL · MySQL · REST APIs<br>
 **Web:** Django · React · HTML/CSS<br>
-**Practices:** TDD · SOLID · Git · Linux · Vim
+**Practices:** TDD · SOLID · Git · Linux
 
 ## 📌 Featured
 
