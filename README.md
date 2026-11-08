@@ -6,7 +6,7 @@ I build ERP and backend systems, mostly with **Odoo and Python**. I also work in
 
 - 🏢 **Now:** building and customizing Odoo HR modules (Payroll, Time Off, Attendance, Contracts), test-first with SOLID design
 - 🔁 **Before:** migrated a production system from Odoo 13 to 17; customized Accounting, POS and eCommerce; integrated mobile apps over REST
-- ⚡ **Proudest fix:** cut a supply-chain data sync from ~2–3 hours to ~2–3 minutes with dynamic programming and database indexing
+- ⚡ **Proudest fix:** cut a data sync from ~2–3 hours to ~2–3 minutes with dynamic programming and database indexing
 - 🤖 **Exploring:** agentic workflows, MCP and AI-assisted development
 
 ## 🛠️ Tech
