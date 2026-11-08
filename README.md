@@ -1,6 +1,6 @@
 # Hi, This is Md. Mohiuddin
 
-**Software Engineer & Odoo Developer** at [Strativ AB](https://strativ.se) · Bangladesh
+**Software Engineer & Odoo ERP Developer** at [Strativ AB](https://strativ.se) · Bangladesh
 
 I build ERP and backend systems, mostly with **Odoo and Python**. I also work in PHP, Node.js and React. I care more about solving the business problem than about any particular stack: clean, tested code, well-normalized schemas, and reading the docs.
 
